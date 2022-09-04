@@ -5,5 +5,8 @@
 | --- | --- | --- | --- | --- | --- |
 | https://github.com/mienord/IND-repository.git | Skriv URL | Skriv URL | Skriv URL | Skriv URL | Skriv URL |
 
-Busenur Yilmaz 
-https://github.com/buseliiik
+|Busenur Yilmaz | heading | heading | heading | heading | heading |
+| --- | --- | --- | --- | --- | --- |
+| https://github.com/buseliiik | Skriv URL | Skriv URL | Skriv URL | Skriv URL | Skriv URL |
+
+

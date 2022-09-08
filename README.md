@@ -20,3 +20,5 @@ Gruppen har en helt okay forsåelse av Github. Vi skjønner det grunnleggende me
 2+ i forsåelse for gruppen vår
 
 Flott!
+
+Stein er best :D

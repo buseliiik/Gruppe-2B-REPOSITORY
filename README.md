@@ -36,6 +36,3 @@ commit for lagring og git push for publisering til repository. Da
 skal jeg kunne lage en pull request for merging. Jeg bruker en 
 sentralisert repository siden jeg trengte ikke en fork for en enkelt 
 oppgave.
-
-
-Mie er kul:)

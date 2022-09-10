@@ -15,3 +15,13 @@ Gruppen har en helt okay forsåelse av Github. Vi skjønner det grunnleggende me
 2+ i forsåelse for gruppen vår
 
 Flott!
+
+
+Busenur - Jeg brukte git clone for å laste ned repository til pcen 
+min. Etterpå navigerte jeg til repository med cd. Med nano 
+kommandoet åpnet jeg README.md filen i terminalen. Nå gjør jeg 
+endringer på dette. Etterpå skal jeg bruke git add for staging, git 
+commit for lagring og git push for publisering til repository. Da 
+skal jeg kunne lage en pull request for merging. Jeg bruker en 
+sentralisert repository siden jeg trengte ikke en fork for en enkelt 
+oppgave.

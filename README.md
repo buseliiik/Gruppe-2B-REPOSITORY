@@ -21,7 +21,6 @@
 | https://github.com/MartinOHovland |
 | --- | 
 | Stein Arild V.Danielsen  | 
-|  | 
 | https://github.com/SteinArildN | 
 
 Møtereferat:

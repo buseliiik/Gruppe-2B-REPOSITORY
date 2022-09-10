@@ -1,7 +1,5 @@
 # Gruppe-2B
 ## Tabell for våre reps
-| Navn & reps | 
-| --- | 
 | Mie Maxine M Nord | 
 | --- | 
 | https://github.com/mienord  |

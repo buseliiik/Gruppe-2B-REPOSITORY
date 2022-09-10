@@ -1,9 +1,28 @@
 # Gruppe-2B
 ## Tabell for våre reps
-
-| Mie Maxine M Nord | Busenur Yilmaz  | Jeppe Stenstadvolden Strømberg |  | Zaher Mordini | Stein Arild V.Danielsen |
-| --- | --- | --- | --- | --- | --- |
-| https://github.com/mienord | https://github.com/buseliiik | https://github.com/Jeppess123 |   | https://github.com/Candle-fly | https://github.com/SteinArildN |
+| Mie Maxine M Nord | 
+|| 
+| https://github.com/mienord  |
+|  --- | 
+| Busenur Yilmaz |
+| --- | 
+| https://github.com/buseliiik|
+|  --- | 
+| Jeppe Stenstadvolden Strømberg |
+|  --- |  
+| https://github.com/Jeppess123 |
+| --- | 
+| Zaher Mordini |
+| --- | 
+| https://github.com/Candle-fly |
+| --- | 
+| Martin O Hovland |
+| --- | 
+| https://github.com/MartinOHovland |
+| --- | 
+| Stein Arild V.Danielsen  | 
+| --- | 
+| ttps://github.com/SteinArildN | 
 
 Møtereferat:
 - Alle må gjøre seg kjent med Github og oppgaven hjemme

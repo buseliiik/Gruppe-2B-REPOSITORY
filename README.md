@@ -1,8 +1,8 @@
 # Gruppe-2B
 ## Tabell for våre reps
-| Mie Maxine M Nord| |  --- | | https://github.com/mienord|
- 
-
+| Mie Maxine M Nord| 
+|  --- |  
+| https://github.com/mienord|
 |  --- | 
 | Busenur Yilmaz|
 | --- | 

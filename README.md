@@ -1,10 +1,19 @@
 # Gruppe-2B
 ## Tabell for våre reps
 
-| Mie Maxine M Nord | Busenur Yilmaz  | Jeppe Stenstadvolden Strømberg |  | Zaher Mordini | Stein Arild V.Danielsen |
-| --- | --- | --- | --- | --- | --- |
-<<<<<<< HEAD
-| https://github.com/mienord/IND-repository.git | Skriv URL | Skriv URL | Skriv URL | Skriv URL | Skriv URL |
+| Mie Maxine M Nord | 
+| --- |
+| Busenur Yilmaz |
+| --- |
+| Jeppe Stenstadvolden Strømberg |
+| --- |
+| Zaher Mordini |
+| --- |
+| Martin O Hovland |
+| --- |
+| Stein Arild V.Danielsen  | 
+
+
 | https://github.com/mienord | https://github.com/buseliiik | https://github.com/Jeppess123 |   | https://github.com/Candle-fly | https://github.com/SteinArildN |
 
 Møtereferat:
@@ -27,6 +36,3 @@ commit for lagring og git push for publisering til repository. Da
 skal jeg kunne lage en pull request for merging. Jeg bruker en 
 sentralisert repository siden jeg trengte ikke en fork for en enkelt 
 oppgave.
->>>>>>> e2c88c114cf40ba4d532d2e6cc4ed5ec046cbdeb
-
-Mie er kul:)

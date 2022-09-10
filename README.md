@@ -18,6 +18,8 @@
 |       | 
 | Stein Arild V.Danielsen  | 
 | https://github.com/SteinArildN | 
+=======
+
 
 Møtereferat:
 - Alle må gjøre seg kjent med Github og oppgaven hjemme
@@ -29,7 +31,6 @@ Gruppen har en helt okay forsåelse av Github. Vi skjønner det grunnleggende me
 2+ i forsåelse for gruppen vår
 
 Flott!
-
 
 Busenur - Jeg brukte git clone for å laste ned repository til pcen 
 min. Etterpå navigerte jeg til repository med cd. Med nano 

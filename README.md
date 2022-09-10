@@ -3,7 +3,7 @@
 | Mie Maxine M Nord| 
 | --- |  
 | https://github.com/mienord|
-|  ---  | 
+|       | 
 | Busenur Yilmaz|
 | https://github.com/buseliiik|
 |       | 

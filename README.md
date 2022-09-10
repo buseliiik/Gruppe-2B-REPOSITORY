@@ -1,20 +1,21 @@
 # Gruppe-2B
 ## Tabell for våre reps
-
+| Navn & reps | 
+| | 
 | Mie Maxine M Nord | 
-| --- |
+| https://github.com/mienord  |
 | Busenur Yilmaz |
-| --- |
+| https://github.com/buseliiik|
 | Jeppe Stenstadvolden Strømberg |
-| --- |
+| https://github.com/Jeppess123 |
 | Zaher Mordini |
-| --- |
+| https://github.com/Candle-fly |
 | Martin O Hovland |
-| --- |
+| https://github.com/MartinOHovland |
 | Stein Arild V.Danielsen  | 
+| ttps://github.com/SteinArildN | 
 
 
-| https://github.com/mienord | https://github.com/buseliiik | https://github.com/Jeppess123 |   | https://github.com/Candle-fly | https://github.com/SteinArildN |
 
 Møtereferat:
 - Alle må gjøre seg kjent med Github og oppgaven hjemme
@@ -26,7 +27,6 @@ Gruppen har en helt okay forsåelse av Github. Vi skjønner det grunnleggende me
 2+ i forsåelse for gruppen vår
 
 Flott!
-
 
 Busenur - Jeg brukte git clone for å laste ned repository til pcen 
 min. Etterpå navigerte jeg til repository med cd. Med nano 

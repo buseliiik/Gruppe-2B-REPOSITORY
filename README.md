@@ -9,13 +9,13 @@
 |       | 
 | Jeppe Stenstadvolden Strømberg | 
 | https://github.com/Jeppess123 |
-| ---   | 
+|       | 
 | Zaher Mordini |
 | https://github.com/Candle-fly |
-| ---   | 
+|       | 
 | Martin O Hovland |
 | https://github.com/MartinOHovland |
-|  ---  | 
+|       | 
 | Stein Arild V.Danielsen  | 
 | https://github.com/SteinArildN | 
 

@@ -21,8 +21,8 @@
 | https://github.com/MartinOHovland |
 | --- | 
 | Stein Arild V.Danielsen  | 
-| --- | 
-| ttps://github.com/SteinArildN | 
+|  | 
+| https://github.com/SteinArildN | 
 
 Møtereferat:
 - Alle må gjøre seg kjent med Github og oppgaven hjemme

@@ -1,21 +1,21 @@
 # Gruppe-2B
 ## Tabell for våre reps
 | Mie Maxine M Nord| 
-|  --- |  
+|   |  
 | https://github.com/mienord|
-|  --- | 
+|   | 
 | Busenur Yilmaz|
 | https://github.com/buseliiik|
-|  --- | 
+|   | 
 | Jeppe Stenstadvolden Strømberg | 
 | https://github.com/Jeppess123 |
-| --- | 
+|    | 
 | Zaher Mordini |
 | https://github.com/Candle-fly |
-| --- | 
+|    | 
 | Martin O Hovland |
 | https://github.com/MartinOHovland |
-| --- | 
+|    | 
 | Stein Arild V.Danielsen  | 
 | https://github.com/SteinArildN | 
 

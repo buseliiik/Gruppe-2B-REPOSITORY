@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="no-NB">
+
+<head>
+<meta charset="utf-8">
+
+
+<center>
+<tittle>
+    Japans flagg
+</tittle>
+</center>
+
+<style>
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: auto;
+}
+</style>
+</head>
+<canvas id="cjapan" width="200" height="150" style="border:1px solid #000000;"></canvas>
+
+    <script>
+    var c = document.getElementById("cjapan");
+    var ctx = c.getContext("2d");
+    
+    ctx.beginPath();
+    ctx.arc(100, 75, 45, 0, 2 * Math.PI, false);
+    ctx.fillStyle = '#BC002D';
+    ctx.fill();
+    </script>
+
+</html>

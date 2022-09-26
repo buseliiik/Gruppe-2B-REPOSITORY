@@ -42,7 +42,6 @@ Når jeg skulle lage to flagg hjalp det veldig at Janis gikk gjennom hvordan man
 
 
 
-
 Kilder:
 
 GeeksforGeeks. «Difference between an Id and Class in HTML?», 12. april 2019. https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/.

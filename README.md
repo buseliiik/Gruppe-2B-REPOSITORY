@@ -1,5 +1,6 @@
 # Gruppe-2B
 ## Tabell for våre reps
+| --- |  
 | Mie Maxine M Nord| 
 | --- |  
 | https://github.com/mienord|
@@ -21,22 +22,28 @@
 
 
 
-Møtereferat:
-- Alle må gjøre seg kjent med Github og oppgaven hjemme
-- Vi møtes og hjelper hverandre hvis noen ikke forsto
-- Tabellen ble lagd greit etter vi så en youtube video
-Vi møtte ikke på så mange utfordringer og alle fikk lagd github konto og lagd pull request:))
+IS-114 Flaggoppgave:
 
-Gruppen har en helt okay forsåelse av Github. Vi skjønner det grunnleggende men må lære oss mer på egen hånd da vi syntes det kan være litt komplisert. 
-2+ i forsåelse for gruppen vår
+Valg av relevante arbeidsoppgaver:
+Vi bruker Github pages til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person snavsr for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
 
-Flott!
+Mie:
+Hvordan bruke Github Projects?:
 
-Busenur - Jeg brukte git clone for å laste ned repository til pcen 
-min. Etterpå navigerte jeg til repository med cd. Med nano 
-kommandoet åpnet jeg README.md filen i terminalen. Nå gjør jeg 
-endringer på dette. Etterpå skal jeg bruke git add for staging, git 
-commit for lagring og git push for publisering til repository. Da 
-skal jeg kunne lage en pull request for merging. Jeg bruker en 
-sentralisert repository siden jeg trengte ikke en fork for en enkelt 
-oppgave.
+Hva jeg har bidratt med:
+Det første jeg gjorde var å velge to flagg jeg ville lage. Jeg valgte Tyskland og Armenia. Deretter gjorde jeg research (kilder under) og kodet flaggene ved bruk av <p>-elementet og “style” attributt og <p>-elementet og ”class” attributter. Jeg lade disse i forkjellig filer som het det de skulle og pusha de til gruppe reps. 
+
+Flagg beskrivelse:
+Når jeg skulle lage to flagg hjalp det veldig at Janis gikk gjennom hvordan man brukte de elementene til å kode det i timen. Jeg tok notater og dro hjem å se på det. Jeg brukte forskjellig kilder til å forstå koden og hva Janis hadde gått gjennom. Disse ligger i kildelista. Jeg brukte Wikipedia til å finne riktig fargekoder og dimensjoner på flaggene. Når jeg skulle lage cssflagget valgte jeg å bruke "class" attributet fordi den kan skrives flere ganger på samme dokument og kan brukes i flere HTML elementer, men "id" kan bare identifisere et element og må ellers være unikt for forskjellige elementer i en HTML side (aishalichauhan3003, 2021). 
+
+
+
+
+
+
+Kilder:
+GeeksforGeeks. «Difference between an Id and Class in HTML?», 12. april 2019. https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/.
+
+GeeksforGeeks. «Create Indian Flag Using HTML and CSS», 12. mars 2021. https://www.geeksforgeeks.org/create-indian-flag-using-html-and-css/.
+
+Janis sine timer.

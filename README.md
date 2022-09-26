@@ -1,6 +1,6 @@
 # Gruppe-2B
 ## Tabell for våre reps
-| --- |  
+
 | Mie Maxine M Nord| 
 | --- |  
 | https://github.com/mienord|
@@ -28,10 +28,12 @@ Valg av relevante arbeidsoppgaver:
 Vi bruker Github pages til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person snavsr for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
 
 Mie:
+
 Hvordan bruke Github Projects?:
 
 Hva jeg har bidratt med:
-Det første jeg gjorde var å velge to flagg jeg ville lage. Jeg valgte Tyskland og Armenia. Deretter gjorde jeg research (kilder under) og kodet flaggene ved bruk av <p>-elementet og “style” attributt og <p>-elementet og ”class” attributter. Jeg lade disse i forkjellig filer som het det de skulle og pusha de til gruppe reps. 
+
+Det første jeg gjorde var å velge to flagg jeg ville lage. Jeg valgte Tyskland og Armenia. Deretter gjorde jeg research (kilder under) og kodet flaggene ved bruk av < p >-elementet og “style” attributt og < p >-elementet og ”class” attributter. Jeg lade disse i forkjellig filer som het det de skulle og pusha de til gruppe reps. 
 
 Flagg beskrivelse:
 Når jeg skulle lage to flagg hjalp det veldig at Janis gikk gjennom hvordan man brukte de elementene til å kode det i timen. Jeg tok notater og dro hjem å se på det. Jeg brukte forskjellig kilder til å forstå koden og hva Janis hadde gått gjennom. Disse ligger i kildelista. Jeg brukte Wikipedia til å finne riktig fargekoder og dimensjoner på flaggene. Når jeg skulle lage cssflagget valgte jeg å bruke "class" attributet fordi den kan skrives flere ganger på samme dokument og kan brukes i flere HTML elementer, men "id" kan bare identifisere et element og må ellers være unikt for forskjellige elementer i en HTML side (aishalichauhan3003, 2021). 
@@ -42,6 +44,7 @@ Når jeg skulle lage to flagg hjalp det veldig at Janis gikk gjennom hvordan man
 
 
 Kilder:
+
 GeeksforGeeks. «Difference between an Id and Class in HTML?», 12. april 2019. https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/.
 
 GeeksforGeeks. «Create Indian Flag Using HTML and CSS», 12. mars 2021. https://www.geeksforgeeks.org/create-indian-flag-using-html-and-css/.

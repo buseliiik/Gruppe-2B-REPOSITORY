@@ -44,6 +44,9 @@ Stein: Japan flagget har 2:3 dimensjoner, den røde prikken i midten har radius 
 
 Jeppe: Vi brukte HTML, Canvas og CSS. Det som skiller disse metodene er at HyperText Markup Language (HTML) er et markeringsspråk for formatering av nettsider hypertekst og mye annen informasjon som kan vises i en nettleser. Cascading Style Sheets(CSS) er derimot et språk som brukes til å definere utseende på filer som er skrevet i enten HTML eller XML. Canvas API er et program for å tegne grafikk via Javascript og HTML elementet.
 
+Martin: Noe som er positivt ved å bruke disse språkene er det at de er relativt enkle. Det er lærerike språk man kan trenge videre med koding. Hjelper videre med jobb hvis man trenger en nettside etc. En annen fordel er å bruke de forskjellige metodene sammen for å lage et bedre sluttprodukt.
+Negative sider ved å bruke disse hver for seg er at sluttproduktet kan bli ganske simpelt. 
+
 
 Kilder:
 

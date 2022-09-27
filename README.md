@@ -27,12 +27,14 @@ IS-114 Flaggoppgave:
 Valg av relevante arbeidsoppgaver:
 Vi bruker Github pages til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person snavsr for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
 
-Mie:
+
 
 Hvordan bruke Github Projects?:
+Buse: 
+Jeg laget et nytt project i gruppe-repository for å planlegge oppgaven lettere. Deretter Mie og jeg delte oppgaver små deler i backlog.Vi konvertert de issue. Deretter har valgt personer i gruppen  egne oppgaver.
 
 Hva jeg har bidratt med:
-
+Mie:
 Det første jeg gjorde var å velge to flagg jeg ville lage. Jeg valgte Tyskland og Armenia. Deretter gjorde jeg research (kilder under) og kodet flaggene ved bruk av < p >-elementet og “style” attributt og < p >-elementet og ”class” attributter. Jeg lade disse i forkjellig filer som het det de skulle og pusha de til gruppe reps. 
 
 Flagg beskrivelse:

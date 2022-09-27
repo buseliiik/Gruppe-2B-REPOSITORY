@@ -25,7 +25,7 @@
 IS-114 Flaggoppgave:
 
 Valg av relevante arbeidsoppgaver:
-Vi bruker Github pages til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person snavsr for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
+Vi bruker Github Projects til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person ansvar for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
 
 
 

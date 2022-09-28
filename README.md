@@ -31,7 +31,7 @@ Vi bruker Github Projects til å fordele arbeidsoppgavene. Vi bryter ned den sto
 
 Hvordan bruke Github Projects?:
 Buse: 
-Jeg laget et nytt project i gruppe-repository for å planlegge oppgaven lettere. Deretter Mie og jeg delte oppgaver små deler i backlog og vi flyttet oppgaver hvis vi gjør noe endring. Backlog til in progress til in review og til done. (Kanban board) Vi konvertert de oppgavene som står i backlog til issue. Deretter har valgt personer i gruppen  egne oppgaver.
+Jeg laget et nytt project i gruppe-repository for å planlegge oppgaven lettere. Deretter Mie og jeg delte oppgaver små deler i backlog og vi flyttet oppgaver hvis vi gjør noe endring. Backlog til in progress til in review og til done. (Kanban board) Vi konvertert de oppgavene som står i backlog til issue. Deretter har valgt personer i gruppen  egne oppgaver. Jeg prøvde å forklare hvordan jeg bidratt med i read.me filen. comitted changes.
 
 Hva jeg har bidratt med:
 Mie:

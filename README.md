@@ -21,7 +21,7 @@ __Valg av relevante arbeidsoppgaver:__
 Vi bruker Github Projects til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person ansvar for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
 
 
-___Hvordan bruke Github Projects?:__
+__Hvordan bruke Github Projects?:__
 
 __Buse:__
 Jeg laget et nytt project i gruppe-repository for å planlegge oppgaven lettere. Deretter Mie og jeg delte oppgaver små deler i backlog og vi flyttet oppgaver hvis vi gjør noe endring. Backlog til in progress til in review og til done (Kanban board). Vi konvertert de oppgavene som står i backlog til issue. Deretter har valgt personer i gruppen  egne oppgaver. Jeg prøvde å forklare hvordan jeg bidratt med i readme filen. comitted changes.

@@ -11,17 +11,18 @@
 | Martin O Hovland  | https://github.com/MartinOHovland  |
 | Stein Arild V.Danielsen  | https://github.com/SteinArildN |
 
-__IS-114 Flaggoppgave:__
+##__IS-114 Flaggoppgave:__
 
 For å løse flaggoppgaven valgte gruppen å lage det tyske, armenske og japanske flagget. Denne oppgaven er krevende og derfor måtte vi bruke GitHib projects til å fordele arbeidsoppgaver slik at det ble overkommelig og at alle bidro. Vi skrev koden for de tre flaggene i hver sin fil som ligger i repositorien vår her^. Deretter lagde vi en felles fil med alle tre flaggene som heter index.html og kan ses som en nettside i Github pages.
 
-__Dette er slik vi løste oppgaven:__
+##__Dette er slik vi løste oppgaven:__
 
 __Valg av relevante arbeidsoppgaver:__
 Vi bruker Github Projects til å fordele arbeidsoppgavene. Vi bryter ned den store oppgaven og skriver detaljert ned hvilke deloppgaver som må gjøres. Vi fordeler de og "assigner" de til gruppemedlemmer i Projects. Selv har hver person ansvar for å flytte oppgaven videre når den jobbes med slik at hele gruppa kan se hvor langt i prosessen den deloppgaven er, eller om noen trenger hjelp. Vi syntes dette fungerer veldig godt og gir alle en god oversikt. 
 
 
-Hvordan bruke Github Projects?:
+___Hvordan bruke Github Projects?:__
+
 __Buse:__
 Jeg laget et nytt project i gruppe-repository for å planlegge oppgaven lettere. Deretter Mie og jeg delte oppgaver små deler i backlog og vi flyttet oppgaver hvis vi gjør noe endring. Backlog til in progress til in review og til done (Kanban board). Vi konvertert de oppgavene som står i backlog til issue. Deretter har valgt personer i gruppen  egne oppgaver. Jeg prøvde å forklare hvordan jeg bidratt med i readme filen. comitted changes.
 

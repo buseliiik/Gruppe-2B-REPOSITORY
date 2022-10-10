@@ -26,6 +26,7 @@ __Hvordan bruke Github Projects?:__
 __Buse:__
 Jeg laget et nytt project i gruppe-repository for å planlegge oppgaven lettere. Deretter Mie og jeg delte oppgaver små deler i backlog og vi flyttet oppgaver hvis vi gjør noe endring. Backlog til in progress til in review og til done (Kanban board). Vi konvertert de oppgavene som står i backlog til issue. Deretter har valgt personer i gruppen  egne oppgaver. Jeg prøvde å forklare hvordan jeg bidratt med i readme filen. comitted changes.
 
+### Gruppens bidrag:
 __Mie:__
 Det første jeg gjorde var å velge to flagg jeg ville lage. Jeg valgte Tyskland og Armenia. Deretter gjorde jeg research (kilder under) og kodet flaggene ved bruk av < p >-elementet og “style” attributt og < p >-elementet og ”class” attributter. Jeg lade disse i forkjellig filer som het det de skulle og pusha de til gruppe reps. 
 

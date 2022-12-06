@@ -1,10 +1,9 @@
 
 
 body  {
-    background-image: url("flaggbilde.png");
-    background-color: #cccccc;
     text-align: center;
 }
+
 /* styling buttons https://stackoverflow.com/questions/11053516/css-styling-for-a-button-using-input-type-button-instead-of-button */
 
 input[type=button] {

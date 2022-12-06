@@ -1,0 +1,54 @@
+
+
+body  {
+    background-image: url("flagg.jpeg");
+    background-color: #cccccc;
+    text-align: center;
+}
+/* styling buttons https://stackoverflow.com/questions/11053516/css-styling-for-a-button-using-input-type-button-instead-of-button */
+
+input[type=button] {
+    background-color: #89CFF0;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 48px;
+    padding: 10px 12px;
+    border: 2px solid #23b9e8;
+    border-radius: 8px;
+}
+
+input[type=button]:hover,
+.input:focus {
+    background-color: #327493;
+}
+
+/* dette er kode for header og footeren vår */
+body{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.fixed-header, .fixed-footer{
+    width: 100%;
+    position: fixed;
+    background: #89CFF0;
+    padding: 10px 0;
+    color: white;
+}
+.fixed-header{
+    top: 0;
+}
+.fixed-footer{
+    bottom: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally */
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}

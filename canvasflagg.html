@@ -25,12 +25,16 @@ canvas {
 <canvas id="cjapan" width="200" height="150" style="border:1px solid #000000;"></canvas>
 
     <script>
+    //her defineres elemtene i html til variabler
     var c = document.getElementById("cjapan");
     var ctx = c.getContext("2d");
-    
+    //her tegner vi
     ctx.beginPath();
+        //koden som skaper sirkelen
     ctx.arc(100, 75, 45, 0, 2 * Math.PI, false);
+        //fylle inn med riktig farge
     ctx.fillStyle = '#BC002D';
+        //tegner
     ctx.fill();
     </script>
 

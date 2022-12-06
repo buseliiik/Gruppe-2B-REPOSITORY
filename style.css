@@ -52,3 +52,39 @@ nav a{
     padding: 7px 25px;
     display: inline-block;
 }
+
+blockquote {
+    font-style:italic;
+    line-height:32px;
+    font-size:20px;
+    color:#fff;
+    background: #89CFF0;
+    margin:20px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 0px;
+    border-left: 50px;
+    border-right: 50px;
+}
+blockquote:before,
+blockquote:after {
+    position: relative;
+    vertical-align: middle;
+    font-family: 'Playfair Display', serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 0;
+}
+blockquote:before {
+    left: -5px;
+}
+blockquote:after {
+    bottom: -50px;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: #0033A0;
+}

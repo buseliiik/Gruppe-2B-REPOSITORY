@@ -7,7 +7,6 @@
 | Mie Maxine Mjølstad Nord  | https://github.com/mienord  |
 | Busenur Yilmaz  | https://github.com/buseliiik  |
 |  Jeppe Stenstadvolden Strømberg  | https://github.com/Jeppess123  |
-| Zaher Mordini  | https://github.com/Candle-fly  |
 | Martin O Hovland  | https://github.com/MartinOHovland  |
 | Stein Arild V.Danielsen  | https://github.com/SteinArildN |
 
@@ -42,7 +41,7 @@ __Jeppe:__ Vi brukte HTML, Canvas og CSS. Det som skiller disse metodene er at H
 __Martin:__ Noe som er positivt ved å bruke disse språkene er det at de er relativt enkle. Det er lærerike språk man kan trenge videre med koding. Hjelper videre med jobb hvis man trenger en nettside etc. En annen fordel er å bruke de forskjellige metodene sammen for å lage et bedre sluttprodukt.
 Negative sider ved å bruke disse hver for seg er at sluttproduktet kan bli ganske simpelt. 
 
-__Zaher:__ 'Style' kan brukes av et element ved å bruke style-attributten. HTML elementer gir en beskrivelse av det generelle innholdet. Og Style-attributten er et av de globale attributtene som brukes på ethvert CSS og HTML-dokument. Style elementet kan brukes som et tag i <head> eller <body>. Ved bruk av 'style' (som definerer CSS-stylinginformasjon) i <head> vil innholdet og styling-informasjonen holdes atskilt, og det kalles 'Embedded Style'. Ved bruk av '<canvas>' i HTML5 har man en enorm variasjon av grafikk. Det ville være enkelt å tegne et flagg ved å bruke elementet <canvas> ved hjelp av JavaScript. 
+'Style' kan brukes av et element ved å bruke style-attributten. HTML elementer gir en beskrivelse av det generelle innholdet. Og Style-attributten er et av de globale attributtene som brukes på ethvert CSS og HTML-dokument. Style elementet kan brukes som et tag i <head> eller <body>. Ved bruk av 'style' (som definerer CSS-stylinginformasjon) i <head> vil innholdet og styling-informasjonen holdes atskilt, og det kalles 'Embedded Style'. Ved bruk av '<canvas>' i HTML5 har man en enorm variasjon av grafikk. Det ville være enkelt å tegne et flagg ved å bruke elementet <canvas> ved hjelp av JavaScript. 
 
 __Kilder:__
 

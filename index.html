@@ -1,137 +1,36 @@
 <!DOCTYPE html>
-<html lang="no-NB">
-
+<html lang="en">
 <head>
-<meta charset="utf-8">
-
-
-<center>
-<tittle>
-    Armensk flagg
-</tittle>
-</center>
-
-<style>
-    
-
-    body{        
-        padding-top: 60px;
-        padding-bottom: 40px;
-    }
-    .fixed-header, .fixed-footer{
-        width: 100%;
-        position: fixed;        
-        background: #89CFF0;
-        padding: 10px 0;
-        color: white;
-    }
-    .fixed-header{
-        top: 0;
-    }
-    .fixed-footer{
-        bottom: 0;
-    }
-    .container{
-        width: 80%;
-        margin: 0 auto; /* Center the DIV horizontally */
-    }
-    nav a{
-        color: white;
-        text-decoration: none;
-        padding: 7px 25px;
-        display: inline-block;
-    }
-
-
-
-
-    .p {text-align: center;}
-    .blue {
-        background-color: #0033A0;
-        width: 300px;
-        height: 50px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-    .orange {
-        background-color: #F2A800;
-        width: 300px;
-        height: 50px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-    .red {
-        background-color: #D90012;
-        width: 300px;
-        height: 50px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-    canvas {
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: auto;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Homepage</title>
 </head>
-<body style="background-color:white">
-    <p class="red">&nbsp;</p>
-    <p class="blue">&nbsp;</p>
-    <p class="orange">&nbsp;</p>
-    <p> &nbsp;</p>
-    <p> &nbsp;</p>
-    <center>
-    <p>Tyskland flagg </p>
-    </center>
-    <p style="background-color: #000000; width: 300px; margin: 0 auto; height: 60px;">&nbsp;</p>
-    <p style="background-color: #FF0000; width: 300px; margin: 0 auto; height: 60px;">&nbsp;</p>
-    <p style="background-color: #FFCC00; width: 300px; margin: 0 auto; height: 60px;">&nbsp;</p>
-    <p> &nbsp;</p>
-    <p> &nbsp;</p>
-    <center>
-    <p>Japan flagg </p>
-    </center>
-    <canvas id="cjapan" width="200" height="150" style="border:1px solid #000000;"></canvas>
-
-    <script>
-    var c = document.getElementById("cjapan");
-    var ctx = c.getContext("2d");
-    
-    ctx.beginPath();
-    ctx.arc(100, 75, 45, 0, 2 * Math.PI, false);
-    ctx.fillStyle = '#BC002D';
-    ctx.fill();
-    </script>
+<body>
 
 
+<!-- kode til knapper hentet fra: https://www.plus2net.com/html_tutorial/button-linking.php-->
+<input type="button" onclick="location.href='pflagg.html';" value="Tysklands flagg (HTML)" />
+<br>
+<input type="button" onclick="location.href='cssflagg.html';" value="Armensk flagg (CSS)" />
+<br>
+<input type="button" onclick="location.href='canvasflagg.html';" value="Japansk flagg (CANVAS)" />
 
-
+<!--header og footer kode-->
 <div class="fixed-header">
     <div class="container">
         <nav>
             <center>
-            <a href="#">Gruppe 2b Flaggoppgave</a>
-        </center>
+                <a href="#">Gruppe 2b Flaggoppgave</a>
+            </center>
         </nav>
     </div>
 </div>
 
-</div>    
-<div class="fixed-footer">
-    <div class="container"></div>        
 </div>
-
-
-
+<div class="fixed-footer">
+    <div class="container"></div>
+</div>
 
 </body>
 
